@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="0 0 24 16" shape-rendering="crispEdges">
+  <!-- vlnka 1 -->
+  <path d="M2 4 q2 -3 4 0 t4 0" fill="none" stroke="#000" stroke-width="1"/>
+  <!-- vlnka 2 (posunutá) -->
+  <path d="M14 12 q2 -3 4 0 t4 0" fill="none" stroke="#000" stroke-width="1"/>
+</svg>

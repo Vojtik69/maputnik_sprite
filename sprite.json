@@ -1,0 +1,16 @@
+{
+  "forest": {
+    "x": 2,
+    "y": 2,
+    "width": 24,
+    "height": 24,
+    "pixelRatio": 1
+  },
+  "water": {
+    "x": 28,
+    "y": 2,
+    "width": 24,
+    "height": 16,
+    "pixelRatio": 1
+  }
+}
